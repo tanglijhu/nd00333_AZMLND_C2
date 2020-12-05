@@ -6,11 +6,16 @@ The dataset used contains the bank marketing information including age, job, mar
 
 ## Architectural Diagram
 
-Step 1: bank marketing dataset registration;
-Step 2: automated machine training as a classification problem with a creteria of "accuracy";
-Step 3: best model generation "VotingEnsemble";
-Step 4: REST endpoint deployment;
-Step 5: prediction testing with the provided "endpoint.py" file. 
+For the real-time endpoint: 
+With the registered bank marketing dataset, a classification automated machine learning training was performed with a criteria of "accuracy". 
+After training, the best model was generated as of "VotingEnsemble" and was deployed as a real-time endpoint. 
+The prediction was made by running the provided "endpoint.py" file. 
+
+For the pipeline endpoint: 
+The same registered bank marketing dataset was used. The automated machine learning training was performed with the use of a Jupyter Notebook. The primary metric used was "AUC_weighted". 
+Afterwards, the pipeline with AutoMLStep was created. During the training, the AutoMLStep could be visualized with the use of "RunDetails" widget. 
+The best model was retrieved and tested. 
+The pipeline was publishd and the REST endpoint was generated to use for predictions. 
 
 ## Key Steps
 
@@ -54,11 +59,11 @@ pipeline endpoint:
 ![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/pipeline-endpoint.PNG?raw=true)
 
 "Use RunDetails Widget" in Jupyter Notebook:
-![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-1.PNG)
-![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-2.PNG)
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-1.PNG?raw=true)
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-2.PNG?raw=true)
 
 scheduled run:
-![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/scheduled-run-pipeline-rest-endpoint.PNG)
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/scheduled-run-pipeline-rest-endpoint.PNG?raw=true)
 
 ## Screen Recording
 
@@ -71,6 +76,4 @@ The screencast demonstrates:
 3) the best AutoML model;
 4) successful API requests to the endpoint with a JSON payload. 
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
-N/A
+
