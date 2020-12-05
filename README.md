@@ -13,9 +13,14 @@ Step 4: REST endpoint deployment;
 Step 5: prediction testing with the provided "endpoint.py" file. 
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
 
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+Step 1: bank marketing dataset registration:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/registered%20datasets.PNG?raw=true)
+
+Step 2: automated machine training as a classification problem with a creteria of "accuracy";
+Step 3: best model generation "VotingEnsemble";
+Step 4: REST endpoint deployment;
+Step 5: prediction testing with the provided "endpoint.py" file.
 
 
 
