@@ -14,15 +14,51 @@ Step 5: prediction testing with the provided "endpoint.py" file.
 
 ## Key Steps
 
-Step 1: bank marketing dataset registration:
+### Step 1: bank marketing dataset registration
+
+registered dataset:
 ![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/registered%20datasets.PNG?raw=true)
 
-Step 2: automated machine training as a classification problem with a creteria of "accuracy";
-Step 3: best model generation "VotingEnsemble";
-Step 4: REST endpoint deployment;
-Step 5: prediction testing with the provided "endpoint.py" file.
+### Step 2: automated machine training as a classification problem with a creteria of "accuracy"
 
+completed automated machine learning: 
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/auto-ml-completed.PNG?raw=true)
 
+### Step 3: best model generation "VotingEnsemble"
+
+best model:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/best%20model%20-%201.PNG?raw=true)
+
+### Step 4: REST endpoint deployment:
+
+"Application Insights" enabled: 
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/endpoint-after-running-log-file.PNG?raw=true)
+
+running "logs.py":
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/running-logs-file.PNG?raw=true)
+
+running swagger on localhost showing the HTTP API methods and responses from the model:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/swagger-running.PNG?raw=true)
+
+### Step 5: prediction testing with the provided "endpoint.py" file
+
+running "endpoint.py" against the API producing JSON output from the model:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/running-endpoint.PNG?raw=true)
+
+### Step 6: create, publish, and consume a pipeline using the provided Jupyter Notebook 
+
+created pipeline:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/pipeline-created.PNG?raw=true)
+
+pipeline endpoint:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/pipeline-endpoint.PNG?raw=true)
+
+"Use RunDetails Widget" in Jupyter Notebook:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-1.PNG)
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/RunDetails-Widget-2.PNG)
+
+scheduled run:
+![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/scheduled-run-pipeline-rest-endpoint.PNG)
 
 ## Screen Recording
 
