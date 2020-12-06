@@ -5,6 +5,7 @@ The project's goal is to operationalize a machine learning pipeline with a deplo
 The dataset used contains the bank marketing information including age, job, marital status, education, housing, loan, poutcome, etc. It is a classification problem where the goal is to predict whether the client will subscribe to a term deposit. After Azure Studio automated machine learning training, the best model was generated based on the criteria of "accuracy". The best model was deployed as the endpoint, which serves out predictions about whether a client's tendency to subscribe to a term deposit. 
 
 # Table of Contents
+<!--ts-->
 - [Architectural-Diagram](##architectural-diagram)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
@@ -20,7 +21,7 @@ The dataset used contains the bank marketing information including age, job, mar
 - [Suggestions-to-Improve](##suggestions-to-improve)
   * [Sub-heading](#sub-heading-4)
     + [Sub-sub-heading](#sub-sub-heading-4)
-    
+<!--te-->  
 
     
 ## Architectural-Diagram
