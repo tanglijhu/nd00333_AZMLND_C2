@@ -67,13 +67,14 @@ scheduled run:
 
 ## Screen Recording
 
-Below is the link to a screen recording of the project in action: 
-https://youtu.be/eWd3JfqJwyA
+Below is the link to a [screen recording](https://youtu.be/eWd3JfqJwyA) of the project in action: 
 
 The screencast demonstrates:
 1) a working deployed ML model endpoint;
 2) the deployed endpoint;
 3) the best AutoML model;
 4) successful API requests to the endpoint with a JSON payload. 
+
+## Suggestions to Improve
 
 
