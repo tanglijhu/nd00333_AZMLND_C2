@@ -17,7 +17,12 @@ Afterwards, the pipeline with AutoMLStep was created. During the training, the A
 The best model was retrieved and tested. 
 The pipeline was publishd and the REST endpoint was generated to use for predictions. 
 
+## Screen Shots
+
+![registered dataset](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/registered%20datasets.PNG?raw=true)
+
 ## Key Steps
+
 
 ### Step 1: bank marketing dataset registration
 
