@@ -6,19 +6,19 @@ The dataset used contains the bank marketing information including age, job, mar
 
 # Table of Contents
 <!--ts-->
-- [Architectural-Diagram](##architectural-diagram)
+- [Architectural-Diagram](##Architectural-Diagram)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Screenshots](##screenshots)
+- [Screenshots](##Screenshots)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Key-Steps](##key-steps)
+- [Key-Steps](##Key-Steps)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Screen-Recording](##screen-recording)
+- [Screen-Recording](##Screen-Recording)
   * [Sub-heading](#sub-heading-3)
     + [Sub-sub-heading](#sub-sub-heading-3)
-- [Suggestions-to-Improve](##suggestions-to-improve)
+- [Suggestions-to-Improve](##Suggestions-to-Improve)
   * [Sub-heading](#sub-heading-4)
     + [Sub-sub-heading](#sub-sub-heading-4)
 <!--te-->  
