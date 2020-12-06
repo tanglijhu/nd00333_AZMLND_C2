@@ -6,25 +6,25 @@ The dataset used contains the bank marketing information including age, job, mar
 
 # Table of Contents
 <!--ts-->
-- [Architectural-Diagram](##Architectural-Diagram)
+- [Architectural Diagram](#architectural-diagram)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Screenshots](##Screenshots)
+- [Screenshots](#screenshots)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Key-Steps](##Key-Steps)
+- [Key Steps](#key-steps)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Screen-Recording](##Screen-Recording)
+- [Screen Recording](#screen-recording)
   * [Sub-heading](#sub-heading-3)
     + [Sub-sub-heading](#sub-sub-heading-3)
-- [Suggestions-to-Improve](##Suggestions-to-Improve)
+- [Suggestions to Improve](#suggestions-to-improve)
   * [Sub-heading](#sub-heading-4)
     + [Sub-sub-heading](#sub-sub-heading-4)
 <!--te-->  
 
     
-## Architectural-Diagram
+## Architectural Diagram
 
 
 For the real-time endpoint: 
