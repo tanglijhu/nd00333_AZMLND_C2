@@ -4,6 +4,25 @@ The project's goal is to operationalize a machine learning pipeline with a deplo
 
 The dataset used contains the bank marketing information including age, job, marital status, education, housing, loan, poutcome, etc. It is a classification problem where the goal is to predict whether the client will subscribe to a term deposit. After Azure Studio automated machine learning training, the best model was generated based on the criteria of "accuracy". The best model was deployed as the endpoint, which serves out predictions about whether a client's tendency to subscribe to a term deposit. 
 
+# Table of Contents
+- [Architectural Diagram](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Screenshots](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Key Steps](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+- [Screen Recording](#heading-3)
+  * [Sub-heading](#sub-heading-3)
+    + [Sub-sub-heading](#sub-sub-heading-3)
+- [Suggestions to Improve](#heading-4)
+  * [Sub-heading](#sub-heading-4)
+    + [Sub-sub-heading](#sub-sub-heading-4)
+    
+
+    
 ## Architectural Diagram
 
 For the real-time endpoint: 
@@ -17,7 +36,7 @@ Afterwards, the pipeline with AutoMLStep was created. During the training, the A
 The best model was retrieved and tested. 
 The pipeline was publishd and the REST endpoint was generated to use for predictions. 
 
-## Screen Shots
+## Screenshots
 
 ### registered dataset
 ![registered dataset](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/registered%20datasets.PNG?raw=true)
