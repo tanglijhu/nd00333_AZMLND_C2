@@ -26,7 +26,7 @@ The pipeline was publishd and the REST endpoint was generated to use for predict
 ### best model
 ![best model](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/best%20model%20-%201.PNG?raw=true)
 ### "Application Insights" enabled 
-![Application Insights enabled](https:"Application Insights" enabled//github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/endpoint-after-running-log-file.PNG?raw=true)
+![Application Insights enabled](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/endpoint-after-running-log-file.PNG?raw=true)
 ### running "logs.py"
 ![running "logs.py"](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/running-logs-file.PNG?raw=true)
 ### running swagger on localhost showing the HTTP API methods and responses from the model
