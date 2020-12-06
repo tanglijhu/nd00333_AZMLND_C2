@@ -5,25 +5,25 @@ The project's goal is to operationalize a machine learning pipeline with a deplo
 The dataset used contains the bank marketing information including age, job, marital status, education, housing, loan, poutcome, etc. It is a classification problem where the goal is to predict whether the client will subscribe to a term deposit. After Azure Studio automated machine learning training, the best model was generated based on the criteria of "accuracy". The best model was deployed as the endpoint, which serves out predictions about whether a client's tendency to subscribe to a term deposit. 
 
 # Table of Contents
-- [Architectural-Diagram](#architectural-diagram)
+- [Architectural-Diagram](##architectural-diagram)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Screenshots](#heading-1)
+- [Screenshots](##screenshots)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Key Steps](#heading-2)
+- [Key-Steps](##key-steps)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Screen Recording](#heading-3)
+- [Screen-Recording](##screen-recording)
   * [Sub-heading](#sub-heading-3)
     + [Sub-sub-heading](#sub-sub-heading-3)
-- [Suggestions to Improve](#heading-4)
+- [Suggestions-to-Improve](##suggestions-to-improve)
   * [Sub-heading](#sub-heading-4)
     + [Sub-sub-heading](#sub-sub-heading-4)
     
 
     
-Architectural-Diagram
+## Architectural-Diagram
 
 
 For the real-time endpoint: 
@@ -64,7 +64,7 @@ The pipeline was publishd and the REST endpoint was generated to use for predict
 ![scheduled run](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/scheduled-run-pipeline-rest-endpoint.PNG?raw=true)
 
 
-## Key Steps
+## Key-Steps
 
 ### Step 1: bank marketing dataset registration
 
@@ -112,7 +112,7 @@ pipeline endpoint:
 scheduled run:
 ![alt text](https://github.com/tanglijhu/nd00333_AZMLND_C2/blob/tanglijhu-patch-2/scheduled-run-pipeline-rest-endpoint.PNG?raw=true)
 
-## Screen Recording
+## Screen-Recording
 
 Below is the link to a [screen recording](https://youtu.be/eWd3JfqJwyA) of the project in action: 
 
@@ -122,6 +122,6 @@ The screencast demonstrates:
 3) the best AutoML model;
 4) successful API requests to the endpoint with a JSON payload. 
 
-## Suggestions to Improve
+## Suggestions-to-Improve
 
 
