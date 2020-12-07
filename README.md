@@ -115,7 +115,7 @@ scheduled run:
 
 ## Screen-Recording
 
-Below is the link to a [screen recording](https://youtu.be/eWd3JfqJwyA) of the project in action: 
+Below is the link to a [screen recording](https://youtu.be/f7VzVPqbxpY) of the project in action: 
 
 The screencast demonstrates:
 1) a working deployed ML model endpoint;
